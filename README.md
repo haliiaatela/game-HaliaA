@@ -4,7 +4,7 @@ Welcome to the **Astronomy Game Project**! 🚀
 
 Great job everyone in achieving the week 7/8 of the ProgNum course. In this exercise, you will design and build your own **astronomy-themed game** while learning how to collaborate and share your work using **branch**.
 
-<code style="color:red">Following the instruction to clone this repository and **create your own branch (important)**.</code> This exercise is required to be examined on ***WEEK 8 during the sessions***. You will need to show your code and explain/demonstrate your game to TA/lecturer during the examination. 
+<code style="color:red">Following the instruction to fork and clone this repository and **create your own branch (important)**.</code> This exercise is required to be examined on ***WEEK 8 during the sessions***. You will need to show your code and explain/demonstrate your game to TA/lecturer during the examination. 
 
 While you are free to build any game you like, there are some **requirements** for your game, as instructed below. 
 
@@ -24,12 +24,12 @@ While you are free to build any game you like, there are some **requirements** f
 ### After making any changes
 * When you have made any changes in your own branch, you can do ``git add``, ``git commit`` to commit the changes.
 * To push branch, type ``git push origin {your branch name}``
+* This updates the branch on the forked repository in your own account.
 
 ### When your game is ready! ☀️ 
-* After ``git push``, come to this repository on the GitHub website. You will see a message for you as below. Press ``Compare & pull request``. 
-<img width="928" height="129" alt="Screenshot 2026-03-22 at 20 15 38" src="https://github.com/user-attachments/assets/feaf57ad-0a32-40f3-88c4-2100d3a62c5e" />
-
-* Give a title and appropriate description of your games, and await approval to merge your games into the ``main`` repository. Your description requires at least (1) game description and (2) how to play. If your description is too vague, your will not get approval for your pull request.
+* After ``git push``, go to your fork and click ``Contribute``, then ``Open Pull Request``.
+* GitHub will bring you to a page that shows the differences between your fork and the ``tycheng-sunny/ProgNum2026-AstroGame`` repository. Click ``Create pull request``.
+* Provide a title and appropriate description of your games, and await approval to merge your games into the ``tycheng-sunny/ProgNum2026-AstroGame`` repository. Your description requires at least (1) game description and (2) how to play. If your description is too vague, your will not get approval for your pull request.
 
 ## Strict DO-NOT rule
 * ❌ Do NOT commit directly to ``main``
